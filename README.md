@@ -1,4 +1,4 @@
-#AccidentDB – Traffic Accident Data Analysis 
+AccidentDB – Traffic Accident Data Analysis 
 
 Shaping Future India
 
