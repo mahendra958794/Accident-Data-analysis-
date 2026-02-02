@@ -7,6 +7,7 @@ Shaping Future India
 This project focuses on analyzing traffic accident data across Indian States, Union Territories (UTs), and Cities to understand accident patterns, fatalities, injuries, and regional risk levels.
 The analysis aims to identify high-risk regions, detect data anomalies, and support data-driven road safety decisions.
 
+
  Objectives
 
 Analyze traffic accidents across States, UTs, and Cities in India
@@ -33,6 +34,7 @@ Total deaths
 
 State-wise, UT-wise, and City-wise records
 
+
  Tools & Technologies
 
 Python (Pandas, pyodbc) – Data processing, validation, anomaly detection
@@ -43,6 +45,7 @@ Excel – Data cleaning and validation
 
 Data Visualization – Charts, graphs, and box plots
 
+ 
  Key Insights
 
 Top 5 states account for over 53% of total traffic accidents in India
@@ -59,6 +62,7 @@ UTs like Lakshadweep and Andaman & Nicobar show very low accident counts
 
 Only Delhi and Jammu & Kashmir exceed the national UT average in traffic deaths
 
+ 
  Analytical Highlights
 
 Box plot analysis revealed extreme outliers in fatalities
@@ -71,6 +75,7 @@ Added a computed Death_Rate column to identify cities with severe accidents
 
 Regions classified into risk categories for targeted safety measures
 
+ 
  Solutions & Recommendations
 
 Improve road infrastructure in high-risk states and cities
@@ -83,6 +88,7 @@ Run public awareness and road safety campaigns
 
 Focus railway safety on track maintenance rather than crossings alone
 
+ 
  Conclusion
 
 This project presents a comprehensive, data-driven analysis of traffic accidents in India.
